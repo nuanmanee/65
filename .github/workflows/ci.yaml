@@ -1,4 +1,4 @@
-name: CI
+name: PUI
 on: push
 jobs:
   lint:
